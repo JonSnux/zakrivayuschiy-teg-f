@@ -258,7 +258,7 @@
   transition: 0.5s ease-in-out;
 }
 
-.button:hover::before{
+.button:hover::before {
   transform: translateX(0);
 }
 
