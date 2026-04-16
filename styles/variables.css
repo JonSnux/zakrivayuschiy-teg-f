@@ -8,7 +8,6 @@
    repeating-linear-gradient(to bottom, #d3d3d3 0, #d3d3d3 2px, transparent 2px, transparent 4px),
    linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a 100%);
   --content-inline-size: clamp(320px, 100%, 700px);
-  --header-block-size: clamp(327px, 38.3vh, 368px);
   --title-font-size: clamp(49px, 4.5vw, 65px);
   --subtitle-font-size: clamp(14px, 1.6vw, 23px);
   --border-style: 2px solid #000;

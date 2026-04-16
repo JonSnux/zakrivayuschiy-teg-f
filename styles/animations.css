@@ -21,9 +21,9 @@
 
 @keyframes spark {
   from {
-    fill: var(--contour-color);
+    opacity: 0;;
   }
   to {
-    fill: var(--animation-fill-color);
+    opacity: 1;
   }
 }
